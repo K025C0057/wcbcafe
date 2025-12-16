@@ -137,7 +137,7 @@ img {
 
 /*デスクトップ版
 -----------------------------------*/
-@madia (min-width: 800px) {
+@media (min-width: 800px) {
     /* 見出し*/
     .page-title {
         font-size: 5rem;
